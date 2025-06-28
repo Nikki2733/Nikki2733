@@ -28,4 +28,4 @@ I'm interested in hacking and python
 I'm currently learning the python 
 How to reach me is nikkiireynolds94@gmail.com
 or @Nikki2733 Read me 
-bash <(curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install)py
+bash <(curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install)pygit clone https://github.com/skelsec/PhoneInfoga.git
